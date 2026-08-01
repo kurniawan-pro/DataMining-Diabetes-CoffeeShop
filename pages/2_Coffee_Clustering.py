@@ -18,7 +18,7 @@ gerai kopi berdasarkan koordinat geografis.
 # Load Data
 # ===========================
 
-df = pd.read_csv(BASE_DIR / "coffee_shop.csv")
+df = pd.read_csv(BASE_DIR / "coffe_shop.csv")
 
 kmeans = joblib.load(BASE_DIR / "models" / "kmeans.pkl")
 
