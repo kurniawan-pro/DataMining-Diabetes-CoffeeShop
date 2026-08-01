@@ -163,11 +163,11 @@ streamlit run app.py
 
 ### GitHub Repository
 
-https://github.com/username/UAS_Data_Mining
+https://github.com/kurniawan-pro/DataMining-Diabetes-CoffeeShop.git
 
 ### Streamlit Cloud
 
-https://username.streamlit.app/
+https://datamining-diabetes-coffeeshop-brwkv5vawhaxsuhpv9ozth.streamlit.app/
 
 ---
 
